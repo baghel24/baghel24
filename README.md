@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baghel24&label=Profile%20views&color=0e75b6&style=flat" alt="baghel24" /> </p>
 
-- 🔭 I’m currently working on **Diseases diagnoses**
+- 🔭 I’m currently working on **Deep Face Detection**
 
 - 🌱 I’m currently learning **React and Deep Learning**
 
