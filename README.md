@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm VISHAL BAGHEL</h1>
-<h3 align="center">A passionate frontend developer and AI/ML enthusiast.</h3>
+<h2 align="left"> Hey! Nice to see you</h2>
+<h3 align="center">
+Welcome to my page!
+I'm Vishal, Software developer from Agra, India.</h3>
 <img align="right"src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" srcset="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baghel24&label=Profile%20views&color=0e75b6&style=flat" alt="baghel24" /> </p>
