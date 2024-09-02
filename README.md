@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VISHAL BAGHEL</h1>
-<h3 align="center">Software Developer | AI Enthusiast | Real Estate Platform Innovator</h3>
+<h3 align="center">Software Developer | Frontend Developer | AI Enthusiast</h3>
   <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 
