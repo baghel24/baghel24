@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm VISHAL BAGHEL</h1>
-<h3 align="center">Software Developer | Frontend Developer | AI Enthusiast</h3>
+<h3 align="center">Software Developer | Frontend Developer | Data Engineer</h3>
   <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baghel24&label=Profile%20views&color=0e75b6&style=flat" alt="baghel24" /> </p>
 
-- 🔭 I’m currently working on **Poddit (AI podcast platform)**, a SaaS product.
+- 🔭 I’m currently working on **Docxify(Real Time Documents Editor)**, a SaaS product.
 
 <h3 align="left">Eager to engage in symbiotic collaborations, I bring to the table a wealth of experience in:</h3>
 
